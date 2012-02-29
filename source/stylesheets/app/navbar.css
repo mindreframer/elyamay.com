@@ -35,7 +35,7 @@
   color:#65625B;
 }
 #lselect li:hover{
-  background: #f5f5f5 url(tab_bg.gif) repeat-x top left;
+  //background: #f5f5f5 url(tab_bg.gif) repeat-x top left;
   color:#434039;
 }
 #lselect li.active{
