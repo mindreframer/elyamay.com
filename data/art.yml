@@ -1,18 +1,18 @@
 ---
 drawing:
-- :title: title
+- :title: "'Study drawing' Charcoal on Paper / 30 x 60 2009"
   :file: drawing/01_title.jpg
-- :title: title
+- :title: "'Study drawing' Charcoal on Paper 2 x A1 / 1999"
   :file: drawing/02_title.jpg
-- :title: title
+- :title: "'Study drawing' Charcoal onCanvas 100 x 100 / 2011"
   :file: drawing/03_title.jpg
-- :title: title
+- :title: "'Study drawing' Pencil on Paper 30 x 60 / 2010"
   :file: drawing/04_title.jpg
-- :title: title
+- :title: "'Study drawing' Charcoal on Paper A1 / 1999"
   :file: drawing/05_title.jpg
-- :title: title
+- :title: "'Study drawing' Charcoal on Paper A1 / 1996"
   :file: drawing/06_title.jpg
-- :title: title
+- :title: "Study drawing Charcoal on Paper 100 x100 / 1998"
   :file: drawing/07_title.jpg
 painting:
 - :title: "'Alex on Concorde' oil on canvas 100 x 100 / 2012"
@@ -83,43 +83,42 @@ painting:
   :file: painting/33_title.jpg
 performance: []
 photo:
-- :title: "'Study drawing' Charcoal on Paper / 30 x 60 2009"
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/01_title.jpg
-- :title: "'Study drawing' Charcoal on Paper 2 x A1 / 1999"
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/02_title.jpg
-- :title: "'Study drawing' Charcoal onCanvas 100 x 100 / 2011"
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/03_title.jpg
-- :title: "'Study drawing' Pencil on Paper 30 x 60 / 2010"
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/04_title.jpg
-- :title: "'Study drawing' Charcoal on Paper A1 / 1999"
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/05_title.jpg
 - :title: "'Study drawing' Charcoal on Paper A1 / 1996"
   :file: photo/06_title.jpg
 - :title: "Study drawing Charcoal on Paper 100 x100 / 1998"
-- :title: title
   :file: photo/07_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/08_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/09_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/10_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/11_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/12_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/13_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/14_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/15_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/16_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/17_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/18_title.jpg
-- :title: title
+- :title: "'Strange Love Project' Collaboration with Atya TM ( photography )"
   :file: photo/19_sleeping.jpg
 video: []
