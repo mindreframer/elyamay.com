@@ -1,0 +1,65 @@
+body {
+  font-family:verdana, arial, sans serif;
+
+}
+
+#left-container{
+  min-height: 100px;
+}
+
+#side-image{
+  position: absolute;
+  left: 0px; top: 0px;
+  width: 440px;
+  background: url('/images/misc/elya_side.jpg') no-repeat;
+  background-position: -50px -27px;
+  //background: url('/images/misc/head.jpg') no-repeat;
+  height: 700px;
+}
+
+.text p{
+  font-size:11px;
+}
+
+#quote{
+  margin-top:100px;
+  margin-left:40px;
+  color: #000;
+}
+
+$img_size: 173px; // 3x
+//$img_size: 120px; // 4x
+//$img_size: 92px; // 5x
+
+.img-container{
+  height: $img_size;
+  width:$img_size;
+  vertical-align: middle;
+  display: table-cell;
+  img{
+    max-width:100%;
+    max-height:100%;
+  }
+}
+.thumb-container{
+  height: $img_size + 45px;
+}
+.img_title{
+  width:$img_size;
+  text-align: center;
+  color: #000;
+  text-decoration:none;
+}
+
+#gallery{
+  a{
+    text-decoration:none;
+    &:hover{
+      text-decoration:none;
+    }
+  }
+}
+.photo_main{
+  height: 178px;
+  width: 272px;
+}

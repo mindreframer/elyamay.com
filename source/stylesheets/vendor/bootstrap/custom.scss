@@ -1,0 +1,17 @@
+.btn.large {
+  font-weight: bold;
+}
+
+.menu-dropdown,
+.dropdown-menu {
+  margin-top: 0; // override default ul styles
+}
+
+.hero-unit{
+  margin-top:20px;
+}
+
+body{
+  //@include vertical-gradient(#AEF100, #71D900);
+}
+
