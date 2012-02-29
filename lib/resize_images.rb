@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'dragonfly'
-originals = Dir['portfolio/*/**']
+originals = Dir['work/photo/**']
 
 app = Dragonfly[:images].configure_with(:imagemagick)
 path = File.expand_path(File.dirname(__FILE__))
