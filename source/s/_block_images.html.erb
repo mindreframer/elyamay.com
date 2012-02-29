@@ -3,10 +3,10 @@
   <ul id='gallery' class="media-grid">
     <% data.art[category].each  do |photo| %>
     <li>
-      <a href="/images/work/big/<%= photo[:file] %>" title='<%= photo[:title] %>' rel="lightbox-journey">
+      <a href="/images/work/big/<%= photo[:file] %>" title="<%= photo[:title].gsub(/\"/, '') %>" rel="lightbox-journey">
         <div class='thumb-container'>
           <div class="img-container"  align="center">
-            <img class="thumbnail" src="/images/work/thumb/<%= photo[:file] %>" alt="<%= photo[:title] %>">
+            <img class="thumbnail" src="/images/work/thumb/<%= photo[:file] %>" title="<%= photo[:title].gsub(/\"/, '') %>">
           </div>
           <div class='img_title'><%= photo[:title] %></div>
         </div>
