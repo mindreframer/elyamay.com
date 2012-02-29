@@ -1,6 +1,10 @@
 body {
   font-family:verdana, arial, sans serif;
+  background: url('/images/misc/images/background.jpg')
+}
 
+footer{
+  border: none;
 }
 
 #left-container{
@@ -64,10 +68,6 @@ $img_size: 173px; // 3x
   width: 272px;
 }
 
-
-
-
-
 #red_text_block{
   margin-left: 0px;
   margin-top: -5px;
@@ -80,3 +80,14 @@ $img_size: 173px; // 3x
   float: left;
 }
 
+#text_main{
+  position: absolute;
+  width: 500px;
+  margin-left: -200px;
+  margin-top: +500px;
+  font-size: 16px;
+  line-height: 35px;
+  .hello{
+    font-size: 25px;
+  }
+}
