@@ -1,19 +1,19 @@
 #!/usr/bin/env ruby
 
 require 'dragonfly'
-originals = Dir['work/photo/**']
+originals = Dir['work/**/**'].grep(/\.jpg/)
 
 app = Dragonfly[:images].configure_with(:imagemagick)
 path = File.expand_path(File.dirname(__FILE__))
 
 
 
-folder_name = 'resized'
+folder_name = 'thumbs'
 Dir.mkdir(folder_name) unless File.exists?(folder_name)
 originals.each do |f|
   file_name_part = f.split('/')[1..-1].join('/') # only the last to path parts
   img = app.fetch_file(File.expand_path(f))
-  img.thumb('1024x640').to_file("#{folder_name}/#{file_name_part}")
+  img.thumb('180x180').to_file("#{folder_name}/#{file_name_part}")
 end
 
 # .encode(:jpg, '-quality 80')
