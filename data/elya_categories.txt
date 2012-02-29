@@ -1,5 +1,5 @@
 painting
 drawing
-photography
+photo
 video
 performance
