@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <!-- Always force latest IE rendering engine or request Chrome Frame -->
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title><%= data.page.title  %></title>
+
+    <%= stylesheet_link_tag "application" %>
+    <%= javascript_include_tag  "all" %>
+  </head>
+
+  <body class="<%= page_classes %>">
+
+    <div class="container">
+      <div class="row" style='margin-top:20px'>
+        <div id='left-container' class='span5'>
+          <div id='side-image'></div>
+        </div>
+        <div class='span11'>
+          <div id="lselect">
+            <ul>
+              <li class='<%= active_if( /index/ ) %>'><a href="/">Home</a></li>
+              <li class='<%= active_if( /print/ ) %>'><a href="/s/print-design.html">Print Design</a></li>
+              <li class='<%= active_if( /web/ ) %>'><a href="/s/web-design.html">Web Design</a></li>
+              <li class='<%= active_if( /ads/ ) %>'><a href="/s/online-ads.html">Ads</a></li>
+              <li class='<%= active_if( /interface/ ) %>'><a href="/s/interface-design.html">Interface Design</a></li>
+              <li class='<%= active_if( /log/ ) %>'><a href="/s/logo-design.html">Logo Design</a></li>
+              <li class='<%= active_if( /misc/ ) %>'><a href="/s/misc.html">Misc</a></li>
+              <li class='<%= active_if( /contact/ ) %>'><a href="/s/contact.html">Contact</a></li>
+            </ul>
+          </div>
+
+          <div class='row'>
+            <div class="span11">
+              <%= yield %>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <footer>
+        <p>&copy; Elya May 2012</p>
+      </footer>
+    </div>
+  </body>
+</html>
