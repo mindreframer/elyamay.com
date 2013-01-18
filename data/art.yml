@@ -67,7 +67,7 @@ painting:
   :file: painting/25_title.jpg
 - :title: "'Farmer' Oil on Canvas 80 x 100 / 2010"
   :file: painting/26_title.jpg
-- :title: "'Sky' Oil on Canvas 80 x 9120 / 2010"
+- :title: "'Sky' Oil on Canvas 80 x 120 / 2010"
   :file: painting/27_title.jpg
 - :title: "'Leo' Oil on Canvas 60 x 80 / 2010"
   :file: painting/28_title.jpg
@@ -83,7 +83,8 @@ painting:
   :file: painting/33_title.jpg
 - :title: "'Symphony' Oil on Canvas 40 x 40 / 2012"
   :file: painting/34_symphony.jpg
-
+- :title: "'Vennice Supper' Oil on Canvas 40 x 40 / 2012"
+  :file: painting/35_vennicesupper.jpg
 
 performance: []
 photo:
