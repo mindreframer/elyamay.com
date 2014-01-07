@@ -1,4 +1,4 @@
-To start: 
+## To start:
 
 install rvm
 install ruby 1.9.3
