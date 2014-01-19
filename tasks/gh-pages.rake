@@ -6,7 +6,6 @@ require 'fileutils'
 REMOTE        = ENV["REMOTE"] ||'origin'
 REPO_URL      = `git config --get remote.#{REMOTE}.url`.strip
 GH_PAGES_NAME = REPO_URL.match("\\.github.com") ? "master" : "gh-pages"
-SOURCE_NAME   = REPO_URL.match("\\.github.com") ? "source" : "master"
 
 
 PROJECT_ROOT = `git rev-parse --show-toplevel`.strip
