@@ -13,18 +13,18 @@
  */
 
 // CSS Reset
-@import "vendor/bootstrap/reset.scss";
+@import "vendor/bootstrap/_reset.scss";
 
 // Core
-@import "vendor/bootstrap/variables.scss";
-@import "vendor/bootstrap/mixins.scss";
+@import "vendor/bootstrap/_variables.scss";
+@import "vendor/bootstrap/_mixins.scss";
 
 // Grid system and page structure
-@import "vendor/bootstrap/scaffolding.scss";
+@import "vendor/bootstrap/_scaffolding.scss";
 
 // Styled patterns and elements
-@import "vendor/bootstrap/type.scss";
-@import "vendor/bootstrap/forms.scss";
-@import "vendor/bootstrap/tables.scss";
-@import "vendor/bootstrap/patterns.scss";
-@import "vendor/bootstrap/custom.scss";
+@import "vendor/bootstrap/_type.scss";
+@import "vendor/bootstrap/_forms.scss";
+@import "vendor/bootstrap/_tables.scss";
+@import "vendor/bootstrap/_patterns.scss";
+@import "vendor/bootstrap/_custom.scss";
