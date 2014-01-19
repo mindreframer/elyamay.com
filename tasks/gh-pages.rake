@@ -3,14 +3,14 @@ require 'fileutils'
 # master <-> gh-pages for normal repos
 # source <-> master   for github user/organization repos
 
-REMOTE        = ENV["REMOTE"] ||'origin'
+REMOTE        = ENV["REMOTE"] ||'github'
 REPO_URL      = `git config --get remote.#{REMOTE}.url`.strip
 GH_PAGES_NAME = REPO_URL.match("\\.github.com") ? "master" : "gh-pages"
 SOURCE_NAME   = REPO_URL.match("\\.github.com") ? "source" : "master"
 
 
 PROJECT_ROOT = `git rev-parse --show-toplevel`.strip
-BUILD_DIR    = File.join(PROJECT_ROOT, "output")
+BUILD_DIR    = File.join(PROJECT_ROOT, "build")
 GH_PAGES_REF = File.join(BUILD_DIR, ".git/refs/remotes/#{REMOTE}/#{GH_PAGES_NAME}")
 
 
@@ -60,20 +60,8 @@ end
 desc "Compile all files into the build directory"
 task :build do
   cd PROJECT_ROOT do
-    files = ["lib/some_lib_#{rand(1000)}.rb", ".publishing"]
-    files.each{|f| touch f}
-    sh "bundle exec nanoc"
-    files.each{|f| rm f}
-    sh "cp CNAME output/CNAME"
-  end
-end
-
-task :local do
-  cd PROJECT_ROOT do
-    filename = "lib/some_lib_#{rand(10000)}.rb"
-    touch filename
-    sh "bundle exec nanoc"
-    rm filename
+    sh "bundle exec middleman build"
+    sh "cp CNAME #{BUILD_DIR}/CNAME"
   end
 end
 
@@ -98,5 +86,5 @@ task :push_to_github do
 end
 
 desc "does everything and cleanes up for local mode"
-task :publish => [:not_dirty, :prepare_git_remote_in_build_dir, :sync, :build, :push_to_github, :local]
+task :publish => [:not_dirty, :prepare_git_remote_in_build_dir, :sync, :build, :push_to_github]
 
