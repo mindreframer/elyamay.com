@@ -3,7 +3,7 @@ require 'fileutils'
 # master <-> gh-pages for normal repos
 # source <-> master   for github user/organization repos
 
-REMOTE        = ENV["REMOTE"] ||'github'
+REMOTE        = ENV["REMOTE"] ||'origin'
 REPO_URL      = `git config --get remote.#{REMOTE}.url`.strip
 GH_PAGES_NAME = REPO_URL.match("\\.github.com") ? "master" : "gh-pages"
 SOURCE_NAME   = REPO_URL.match("\\.github.com") ? "source" : "master"
