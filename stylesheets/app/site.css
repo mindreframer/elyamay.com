@@ -1,17 +1,17 @@
-/* line 1, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 1, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 body {
   font-family: verdana, arial, sans serif;
   background: url("/images/misc/images/background.jpg") no-repeat; }
 
-/* line 6, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 6, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 footer {
   border: none; }
 
-/* line 10, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 10, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #left-container {
   min-height: 100px; }
 
-/* line 14, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 14, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #side-image {
   position: absolute;
   left: 0px;
@@ -21,32 +21,32 @@ footer {
   background-position: -50px -27px;
   height: 700px; }
 
-/* line 24, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 24, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 .text p {
   font-size: 11px; }
 
-/* line 28, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 28, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #quote {
   margin-top: 100px;
   margin-left: 40px;
   color: #000; }
 
-/* line 38, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 38, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 .img-container {
   height: 172px;
   width: 172px;
   vertical-align: middle;
   display: table-cell; }
-  /* line 43, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+  /* line 43, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
   .img-container img {
     max-width: 100%;
     max-height: 100%; }
 
-/* line 48, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 48, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 .thumb-container {
   height: 217px; }
 
-/* line 51, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 51, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 .img_title {
   width: 172px;
   text-align: center;
@@ -54,32 +54,32 @@ footer {
   text-decoration: none;
   font-size: 11px; }
 
-/* line 60, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 60, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #gallery a {
   text-decoration: none; }
-  /* line 62, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+  /* line 62, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
   #gallery a:hover {
     text-decoration: none; }
 
-/* line 67, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 67, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 .photo_main {
   height: 178px;
   width: 272px; }
 
-/* line 72, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 72, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #red_text_block {
   margin-left: 0px;
   margin-top: -5px;
   display: inline;
   float: left; }
 
-/* line 78, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 78, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #main_image {
   display: inline;
   margin-top: -5px;
   float: left; }
 
-/* line 84, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 84, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #text_main {
   position: absolute;
   width: 500px;
@@ -88,6 +88,6 @@ footer {
   font-size: 16px;
   line-height: 35px;
   font-style: italic; }
-  /* line 92, /Users/roman/Desktop/elyamay.com/source/stylesheets/app/site.css.scss */
+  /* line 92, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
   #text_main .hello {
     font-size: 25px; }

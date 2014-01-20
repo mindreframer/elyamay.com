@@ -26,7 +26,7 @@
 */
 /* Vars */
 /* Overlay style */
-/* line 32, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 32, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 #simple-modal-overlay {
   position: fixed;
   display: block;
@@ -43,7 +43,7 @@
   background: -moz-radial-gradient(circle, white, #291a49);
   background: -ms-radial-gradient(circle, white, #291a49); }
 
-/* line 48, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 48, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal {
   /* Style rewrite */
   background-color: #ffffcc;
@@ -63,7 +63,7 @@
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px; }
 
-/* line 68, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 68, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal-dialog {
   width: 600px;
   left: 20px;
@@ -73,13 +73,13 @@
   position: fixed;
   margin: 0; }
 
-/* line 78, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 78, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-header {
   padding: 5px 15px;
   margin: 0;
   border-bottom: 1px solid #EEEEEE; }
 
-/* line 83, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 83, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-header h1 {
   margin: 0;
   color: #404040;
@@ -88,7 +88,7 @@
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 18px; }
 
-/* line 91, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 91, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal a.close {
   position: absolute;
   right: 15px;
@@ -100,33 +100,33 @@
   line-height: 10px;
   text-decoration: none; }
 
-/* line 102, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 102, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal a.close:hover {
   color: #444; }
 
-/* line 105, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 105, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-body {
   padding: 15px;
   background-color: white;
   /* Extra style */ }
 
-/* line 111, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 111, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-body div.contents {
   overflow: hidden; }
 
-/* line 114, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 114, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-body p {
   font-size: 13px;
   font-weight: normal;
   color: #606060;
   line-height: 18px; }
 
-/* line 120, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 120, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-body p img {
   display: block;
   margin: 0 auto 10px auto; }
 
-/* line 124, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 124, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-footer {
   display: block;
   background-color: #F5F5F5;
@@ -142,7 +142,7 @@
   margin-bottom: 0;
   text-align: center; }
 
-/* line 139, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 139, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-footer a.btn {
   text-decoration: none;
   cursor: pointer;
@@ -160,7 +160,7 @@
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px; }
 
-/* line 156, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 156, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-footer a.btn.primary {
   color: #FFF;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
@@ -168,21 +168,21 @@
   background-repeat: repeat-x;
   margin-right: 15px; }
 
-/* line 163, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 163, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-footer a.btn.primary:hover {
   border: 1px solid #444;
   background-color: #444; }
 
-/* line 167, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 167, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-footer a.btn.secondary {
   padding: 5px 2px 6px; }
 
-/* line 170, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 170, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal .simple-modal-footer a.btn.secondary:hover {
   color: #999; }
 
 /* Draggable style */
-/* line 174, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 174, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal.draggable .simple-modal-header:hover {
   cursor: move;
   background-color: #f8f8f8;
@@ -194,25 +194,25 @@
   border-top-right-radius: 6px; }
 
 /* Loading style */
-/* line 185, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 185, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal.loading .simple-modal-body {
   min-height: 60px;
   background: transparent url("../images/loader.gif") no-repeat center center; }
 
-/* line 189, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 189, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal.loading .simple-modal-body div.contents {
   display: none; }
 
-/* line 192, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 192, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal.loading .close, .simple-modal.loading .simple-modal-header, .simple-modal.loading .simple-modal-footer {
   display: none; }
 
 /* Hide header */
-/* line 196, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 196, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal.hide-header .simple-modal-header {
   display: none; }
 
 /* Hide header */
-/* line 200, /Users/roman/Desktop/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
+/* line 200, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/vendor/simplemodal/simplemodal.css.scss */
 .simple-modal.hide-footer .simple-modal-footer {
   display: none; }
