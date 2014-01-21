@@ -86,6 +86,18 @@ painting:
 - :title: "'Vennice Supper' Oil on Canvas 120 x 100 / 2012"
   :file: painting/35_vennicesupper.jpg
 
+painting2013:
+- :title: title
+  :file: painting2013/01_title.jpg
+- :title: title
+  :file: painting2013/02_title.jpg
+- :title: title
+  :file: painting2013/03_title.jpg
+- :title: title
+  :file: painting2013/04_title.jpg
+- :title: title
+  :file: painting2013/05_title.jpg
+
 performance: []
 photo:
 - :title: "'Strange Love Project' Collaboration with Atya TM ( photography 2010)"
