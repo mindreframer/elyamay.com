@@ -46,7 +46,8 @@ $img_size: 172px; // 3x
   }
 }
 .thumb-container{
-  height: $img_size + 45px;
+  //height: $img_size + 45px;
+  height: $img_size + 5px;
 }
 .img_title{
   width:$img_size;
