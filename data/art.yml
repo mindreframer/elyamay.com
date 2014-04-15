@@ -86,17 +86,29 @@ painting:
 - :title: "'Vennice Supper' Oil on Canvas 120 x 100 / 2012"
   :file: painting/35_vennicesupper.jpg
 
-painting2013:
+mixedmedia2013:
 - :title: title
-  :file: painting2013/01_title.jpg
+  :file: mixedmedia2013/001_title.jpg
 - :title: title
-  :file: painting2013/02_title.jpg
+  :file: mixedmedia2013/002_title.jpg
 - :title: title
-  :file: painting2013/03_title.jpg
+  :file: mixedmedia2013/003_title.jpg
 - :title: title
-  :file: painting2013/04_title.jpg
+  :file: mixedmedia2013/004_title.jpg
 - :title: title
-  :file: painting2013/05_title.jpg
+  :file: mixedmedia2013/005_title.jpg
+- :title: title
+  :file: mixedmedia2013/006_title.jpg
+- :title: title
+  :file: mixedmedia2013/007_title.jpg
+- :title: title
+  :file: mixedmedia2013/008_title.jpg
+- :title: title
+  :file: mixedmedia2013/009_title.jpg
+- :title: title
+  :file: mixedmedia2013/010_title.jpg
+- :title: title
+  :file: mixedmedia2013/011_title.jpg
 
 performance: []
 photo:
