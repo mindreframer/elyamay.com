@@ -1,17 +1,17 @@
-/* line 1, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 1, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 body {
   font-family: verdana, arial, sans serif;
   background: url("/images/misc/images/background.jpg") no-repeat; }
 
-/* line 6, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 6, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 footer {
   border: none; }
 
-/* line 10, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 10, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #left-container {
   min-height: 100px; }
 
-/* line 14, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 14, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #side-image {
   position: absolute;
   left: 0px;
@@ -21,32 +21,32 @@ footer {
   background-position: -50px -27px;
   height: 700px; }
 
-/* line 24, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 24, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 .text p {
   font-size: 11px; }
 
-/* line 28, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 28, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #quote {
   margin-top: 100px;
   margin-left: 40px;
   color: #000; }
 
-/* line 38, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 38, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 .img-container {
   height: 172px;
   width: 172px;
   vertical-align: middle;
   display: table-cell; }
-  /* line 43, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+  /* line 43, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
   .img-container img {
     max-width: 100%;
     max-height: 100%; }
 
-/* line 48, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 48, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 .thumb-container {
   height: 177px; }
 
-/* line 52, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 52, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 .img_title {
   width: 172px;
   text-align: center;
@@ -54,32 +54,32 @@ footer {
   text-decoration: none;
   font-size: 11px; }
 
-/* line 61, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 61, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #gallery a {
   text-decoration: none; }
-  /* line 63, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+  /* line 63, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
   #gallery a:hover {
     text-decoration: none; }
 
-/* line 68, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 68, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 .photo_main {
   height: 178px;
   width: 272px; }
 
-/* line 73, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 73, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #red_text_block {
   margin-left: 0px;
   margin-top: -5px;
   display: inline;
   float: left; }
 
-/* line 79, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 79, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #main_image {
   display: inline;
   margin-top: 10px;
   float: left; }
 
-/* line 85, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+/* line 85, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
 #text_main {
   position: absolute;
   width: 500px;
@@ -88,6 +88,6 @@ footer {
   font-size: 16px;
   line-height: 35px;
   font-style: italic; }
-  /* line 93, /Users/roman/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
+  /* line 93, /Users/romanheinrich/Dropbox/5.html-sites/elya_site/elyamay.com/source/stylesheets/app/site.css.scss */
   #text_main .hello {
     font-size: 25px; }
